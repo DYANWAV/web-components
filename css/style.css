@@ -1,0 +1,7 @@
+body {
+	font-family: Verdana, sans-serif;
+	font-size: 16px;
+	background-color: #222;
+	color: white;
+	min-height: 100vh;
+}
