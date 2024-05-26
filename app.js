@@ -1,4 +1,5 @@
 import './componentes/WavHeader.js';
+import './componentes/WavButton.js';
 
 class HolaMundo extends HTMLElement {
 	connectedCallback() {

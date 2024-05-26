@@ -1,5 +1,12 @@
+@font-face {
+	font-family: 'Bebas';
+	src: url(../fonts/bebas-neue.woff2) format('woff2'),
+		url(../fonts/bebas-neue.woff) format('woff');
+	font-dislpay: swap;
+}
+
 body {
-	font-family: Verdana, sans-serif;
+	font-family: Bebas, sans-serif;
 	font-size: 16px;
 	background-color: #222;
 	color: white;
